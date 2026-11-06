@@ -150,15 +150,15 @@ Thầy giúp em với ạ!
 ```text
 Em chào thầy ạ! Em đang gặp vấn đề khi sử dụng npm trên Windows 11 và mong thầy hỗ trợ kiểm tra giúp em.
 
-**1. Context (Bối cảnh):**
+1. Context (Bối cảnh):
 
 Em vừa cài đặt Node.js trên laptop Windows 11. Sau đó, em mở Terminal trong VS Code để kiểm tra phiên bản npm.
 
-**2. Expected (Kết quả mong đợi):**
+2. Expected (Kết quả mong đợi):
 
 Khi nhập lệnh `npm -v`, Terminal sẽ hiển thị số phiên bản npm đã cài đặt.
 
-**3. Actual (Kết quả thực tế):**
+3. Actual (Kết quả thực tế):
 
 Terminal hiển thị thông báo lỗi:
 
@@ -166,7 +166,7 @@ Terminal hiển thị thông báo lỗi:
 
 Em đã thử thêm đường dẫn cài đặt Node.js (`C:\Program Files\nodejs\`) vào biến môi trường PATH và mở Terminal mới nhưng lỗi tương tự vẫn xuất hiện.
 
-**4. Log & Screenshot (Nhật ký và ảnh chụp):**
+4. Log & Screenshot (Nhật ký và ảnh chụp):
 
 Em gửi kèm ảnh chụp màn hình thông báo lỗi khi thực hiện lệnh `npm -v` để thầy tiện kiểm tra và xác định nguyên nhân.
 
